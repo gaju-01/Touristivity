@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Touristivity-master/static/css/main.60117aac.chunk.css",
+    "main.js": "/Touristivity-master/static/js/main.8b1f1d6e.chunk.js",
+    "main.js.map": "/Touristivity-master/static/js/main.8b1f1d6e.chunk.js.map",
+    "runtime-main.js": "/Touristivity-master/static/js/runtime-main.036f2ba7.js",
+    "runtime-main.js.map": "/Touristivity-master/static/js/runtime-main.036f2ba7.js.map",
+    "static/js/2.5856d5cb.chunk.js": "/Touristivity-master/static/js/2.5856d5cb.chunk.js",
+    "static/js/2.5856d5cb.chunk.js.map": "/Touristivity-master/static/js/2.5856d5cb.chunk.js.map",
+    "index.html": "/Touristivity-master/index.html",
+    "static/css/main.60117aac.chunk.css.map": "/Touristivity-master/static/css/main.60117aac.chunk.css.map",
+    "static/js/2.5856d5cb.chunk.js.LICENSE.txt": "/Touristivity-master/static/js/2.5856d5cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.036f2ba7.js",
+    "static/js/2.5856d5cb.chunk.js",
+    "static/css/main.60117aac.chunk.css",
+    "static/js/main.8b1f1d6e.chunk.js"
+  ]
+}
