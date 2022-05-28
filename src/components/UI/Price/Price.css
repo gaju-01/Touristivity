@@ -1,0 +1,7 @@
+.price-class{font-size: large;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    position: relative;
+    left:7rem;
+}

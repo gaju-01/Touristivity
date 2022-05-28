@@ -1,0 +1,50 @@
+.par{
+    height:15rem;
+    margin-top:15px;
+    margin-bottom:15px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.par > div{
+    height:11rem;
+    background-color: rgb(255, 231, 187);
+    border-radius: 12px;
+    width:33%;
+    display: flex;
+    margin-right:1rem;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.par > div{
+    width:25%;
+
+}
+.par iframe{
+    position: relative;
+    display: block;
+    top:12px;
+    left:4px;
+    width:97%;
+    height:80%;
+    border-radius: 12px;
+}
+h2{
+    font-family:sans-serif;
+}
+
+.par >div div p{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 1rem;
+    font-size: small;
+}
+
+.par div:hover{
+    width:28%;
+    height:11rem;
+}

@@ -1,0 +1,10 @@
+.dec{
+    border:2px solid black;
+    width:100vh;
+    background-color: rgb(0, 0, 0);
+    border-radius:12px;
+}
+
+.dec li{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

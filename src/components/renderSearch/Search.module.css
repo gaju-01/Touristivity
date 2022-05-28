@@ -1,0 +1,20 @@
+.div-style{
+    margin-top:2rem;
+    
+}
+
+.main-image{
+    height:300px;
+    position: relative;
+    left:25rem;
+
+} 
+
+.img-class{
+    position: relative;
+    left:3rem;
+    width:250px;
+    height:200px;
+    margin-right:2rem;
+    margin-bottom:1rem;
+}

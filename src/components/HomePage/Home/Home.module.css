@@ -1,0 +1,36 @@
+.top{
+    background-color: rgb(30, 87, 87);
+    padding-bottom: 2px;
+    width:76rem;
+    margin-bottom:2px;
+    border-radius: 3px;
+}
+.searchclass{
+    margin-top:5px;
+    height: 150px;
+    width:76rem;
+}
+.searchclass > p{
+    position: relative;
+    left:30rem;
+}
+
+.searchclass input{
+    position: relative;
+    top:0px;
+    left:30rem;
+}
+
+
+.log{
+    position: relative;
+    left:33rem;
+    top:2rem;
+}
+
+.butto{
+    position: relative;
+    left:30rem;
+    width:60px;
+    height:20px;
+}

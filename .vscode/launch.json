@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch p4",
+            "request": "launch",
+            "mainClass": "components.renderSearch.p4",
+            "projectName": "Webproject_78fe2c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch code",
+            "request": "launch",
+            "mainClass": "code",
+            "projectName": "Webproject_78fe2c88"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

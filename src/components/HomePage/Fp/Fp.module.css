@@ -1,0 +1,28 @@
+.par{
+    display:grid;
+    grid-auto-rows: 497px;
+    grid-template-columns:18rem 18rem 18rem 18rem;
+    grid-column-gap:1rem;
+    grid-row-gap:6px;
+    height:1080px;
+    width:76rem;
+    margin-bottom:15px;
+    margin-top: 45px;
+}
+
+.par> div{
+    border:2px solid rgb(8, 80, 80);
+    border-radius:8px;
+}
+.par >div:hover{
+    border:3px solid rgb(14, 190, 190);
+}
+.par img{
+    position:relative;
+    top:6px;
+    left:7px;
+    width:17rem;
+    height:11rem;
+    align-self:center;
+    border-radius: 8px;
+}

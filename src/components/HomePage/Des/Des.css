@@ -1,0 +1,17 @@
+.des-class{
+    border:1px solid black ;
+    width:76rem;
+    height: 240px;
+    border-radius: 12px;
+}
+
+.para{
+    position: relative;
+    bottom:1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.des-class Button{
+    position: relative;
+    left:35rem;
+}

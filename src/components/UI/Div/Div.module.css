@@ -1,0 +1,12 @@
+.re-div{
+    border-radius:1px solid blue;
+    background-color: rgb(218, 212, 212);
+    height:98%;
+    width:18%;
+    margin-right:22px;
+}
+
+.re-div:hover{
+    height:105%;
+    width:22%;
+}

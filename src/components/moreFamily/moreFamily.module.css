@@ -1,0 +1,10 @@
+.para{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: small;
+    color:grey;
+}
+
+.para:hover{
+    color: rgb(81, 73, 88);
+}

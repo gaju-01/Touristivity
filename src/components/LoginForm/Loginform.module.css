@@ -1,0 +1,40 @@
+.form-class label{
+    display:inline-block;
+    width: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    margin:12px;
+}
+
+.position-class label,input{
+    position: relative;
+    left:70px;
+    top:20px;
+    bottom:5px;
+}
+
+.position-class p{
+    position: relative;
+    left:180px;
+    top:40px;
+}
+
+.form-class input{
+    width:200px;
+    height :20px;
+    margin:12px;
+}
+
+.form-class button{
+    transform:translate(200px,40px);
+    padding:2px;
+}
+
+.form-class{
+    position:relative;
+    width:600px;
+    height:300px;
+    border-radius: 12px;
+    border:2px solid black;
+}

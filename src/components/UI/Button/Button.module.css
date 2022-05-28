@@ -1,0 +1,24 @@
+.button_class {
+    display:block;
+    width:130px;
+    height:40px;
+    background-color:rgb(6, 92, 134);
+    box-shadow: 2px;
+    border-radius: 12px;
+    color:rgb(255, 255, 255);
+    font-size:18px;
+    font-family: sans-serif;
+    font-weight:300;
+}
+
+.button_class:hover,:disabled{
+    background-color: rgb(123, 163, 180);
+}
+
+.button_class:focus{
+    color: rgb(18, 55, 71);
+}
+
+.button_class:disabled{
+    cursor:not-allowed;
+}

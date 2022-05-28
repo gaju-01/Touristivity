@@ -1,0 +1,25 @@
+.app{
+    overflow:scroll;
+}
+
+.top h1{
+    position: relative;
+    bottom: 6px;
+    left:26rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(226, 156, 27);
+    display: inline;
+}
+.top img{
+    display: inline;
+    position: relative;
+    width:60px;
+    left:25rem;
+    top:5px;
+}
+
+.top{
+    background-color: rgb(46, 42, 33);
+    width:76rem;
+}

@@ -1,0 +1,9 @@
+.fam{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    height:13rem;
+}
+
