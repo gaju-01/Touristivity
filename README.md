@@ -12,3 +12,4 @@ your trips.
 2. cd into the root directory
 3. Run npm install to install the dependencies
 4. Note that your node version should be 16
+5. Run npm start to start the server
